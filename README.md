@@ -2,7 +2,7 @@
 - 👀 I’m interested in Verilog, CPP, FPGA, etc.
 - 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me by email (
+- 📫 You can reach me by email ( tmdqja1001@naver.com )
 
 <!---
 FaliedID/FaliedID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
